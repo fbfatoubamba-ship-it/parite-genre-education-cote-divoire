@@ -46,7 +46,7 @@ Le fichier `dashboard\_education\_civ.html` s'ouvre dans n'importe quel
 
 navigateur, pas besoin d'internet une fois téléchargé.
 
-Version en ligne : https://fbfatoubamba-ship-it.github.io/parite-genre-education-cote-divoire/dashboard_education\_civ.html
+Version en ligne : https://fbfatoubamba-ship-it.github.io/parite-genre-education-cote-divoire/dashboard_education_civ.html
 
 
 
